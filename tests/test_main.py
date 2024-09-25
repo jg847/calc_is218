@@ -22,4 +22,3 @@ def test_negative_division():
     '''Negative Division function'''
     with pytest.raises(ZeroDivisionError):
         division(10,0)
-        
