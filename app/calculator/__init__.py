@@ -1,6 +1,7 @@
 from typing import List, Union
 from app.history_manager import HistoryManager, OperationCommand
 from app.operations import Number
+from app.calculation import Calculation
 
 
 class Calculator:
